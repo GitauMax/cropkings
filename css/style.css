@@ -118,13 +118,13 @@ section{
 .home .content h3{
    font-size: 6rem;
    text-transform: uppercase;
-   color:var(--black);
+   color:var(--white);
 }
 
 .home .content p{
    line-height: 2;
    font-size: 1.5rem;
-   color:var(--light-color);
+   color:var(--white);
    padding:1rem 0;
 }
 
@@ -215,7 +215,9 @@ section{
    color:var(--white);
    line-height: 2;
 }
-
+.process .box-container .box img{
+   width: 300px;
+}
 .reviews{
    background-color: var(--light-bg);
 }
