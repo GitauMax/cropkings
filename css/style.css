@@ -129,7 +129,7 @@ section{
 }
 
 .about .row{
-   min-height: 50vh;
+   min-height: 80vh;
 }
 
 .about .content span{
@@ -216,7 +216,7 @@ section{
    line-height: 2;
 }
 .process .box-container .box img{
-   width: 300px;
+   width: 250px;
 }
 .reviews{
    background-color: var(--light-bg);
