@@ -38,6 +38,12 @@ html{
    scroll-behavior: smooth;
    scroll-padding-top: 6.5rem;
 }
+h1{
+font-size: 62px;
+color: green;
+align-items: center;
+justify-content: center;
+}
 
 section{
    padding:7rem 2rem;
