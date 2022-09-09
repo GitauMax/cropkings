@@ -39,10 +39,12 @@ html{
    scroll-padding-top: 6.5rem;
 }
 h1{
-font-size: 62px;
+font: monospace;
+font-size: 40px;
 color: green;
 align-items: center;
 justify-content: center;
+
 }
 
 section{
